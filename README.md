@@ -85,6 +85,5 @@ The examples in this portfolio are sanitized or demonstration projects. No confi
 
 ## 📫 Connect
 
-- Upwork: Add your profile URL
-- LinkedIn: Add your profile URL
-- Email: Add your professional email
+- LinkedIn: https://www.linkedin.com/in/akash-panchal-3289b9188
+- Email: akashpanchal1329@gmail.com
