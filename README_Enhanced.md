@@ -156,9 +156,8 @@ These are **sanitized or demonstration materials** intended to showcase testing 
 
 Interested in manual QA, API testing or a focused test review? Explore the project samples above and reach out.
 
-- **Upwork:** [Add your Upwork profile link](https://www.upwork.com/)
-- **LinkedIn:** [Add your LinkedIn profile link](https://www.linkedin.com/)
-- **Email:** Replace this line with your professional contact email
+- **LinkedIn:** [[Add your LinkedIn profile link](https://www.linkedin.com/)](https://www.linkedin.com/in/akash-panchal-3289b9188/)
+- **Email:** akashpanchal1329@gmail.com
 
 <div align="center">
 
