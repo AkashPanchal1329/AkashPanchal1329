@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="274" viewBox="0 0 1400 274" role="img" aria-labelledby="title desc">
+  <title id="title">QA process: six-step quality workflow</title>
+  <desc id="desc">Discover requirements, design scenarios, validate behavior, automate checks, run regression, and report findings.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0A1020"/>
+      <stop offset="100%" stop-color="#111628"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#5F7A98" opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="1400" height="274" rx="20" fill="url(#bg)"/>
+  <rect width="1400" height="274" rx="20" fill="url(#dots)"/>
+  <rect x="35" y="30" width="5" height="33" rx="2" fill="url(#line)"/>
+  <text x="59" y="53" font-size="26" font-weight="700" fill="#E7F2FE" font-family="DejaVu Sans, Arial, sans-serif" letter-spacing="1.2">THE QA DELIVERY LOOP</text>
+  <text x="58" y="78" font-size="15" fill="#91A9C2" font-family="DejaVu Sans, Arial, sans-serif">From understanding requirements to communicating release confidence</text>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <g>
+      <rect x="35" y="115" width="205" height="120" rx="13" fill="#111E30" stroke="#2F6672" stroke-width="1.4"/>
+      <rect x="54" y="130" width="43" height="28" rx="7" fill="#12323E"/>
+      <text x="67" y="150" fill="#77E8EF" font-size="16" font-weight="700">01</text>
+      <text x="54" y="186" fill="#E7F2FE" font-size="21" font-weight="700">DISCOVER</text>
+      <text x="54" y="213" fill="#9BB0C8" font-size="14">Know the scope</text>
+    </g>
+    <g>
+      <rect x="259" y="115" width="205" height="120" rx="13" fill="#111E30" stroke="#386075" stroke-width="1.4"/>
+      <rect x="278" y="130" width="43" height="28" rx="7" fill="#12323E"/>
+      <text x="291" y="150" fill="#77E8EF" font-size="16" font-weight="700">02</text>
+      <text x="278" y="186" fill="#E7F2FE" font-size="21" font-weight="700">DESIGN</text>
+      <text x="278" y="213" fill="#9BB0C8" font-size="14">Cover the risks</text>
+    </g>
+    <g>
+      <rect x="483" y="115" width="205" height="120" rx="13" fill="#111E30" stroke="#345B7A" stroke-width="1.4"/>
+      <rect x="502" y="130" width="43" height="28" rx="7" fill="#1A2F4D"/>
+      <text x="515" y="150" fill="#9CD1FF" font-size="16" font-weight="700">03</text>
+      <text x="502" y="186" fill="#E7F2FE" font-size="21" font-weight="700">VALIDATE</text>
+      <text x="502" y="213" fill="#9BB0C8" font-size="14">Test real behavior</text>
+    </g>
+    <g>
+      <rect x="707" y="115" width="205" height="120" rx="13" fill="#111E30" stroke="#58527E" stroke-width="1.4"/>
+      <rect x="726" y="130" width="43" height="28" rx="7" fill="#2E294E"/>
+      <text x="739" y="150" fill="#C4B5FD" font-size="16" font-weight="700">04</text>
+      <text x="726" y="186" fill="#E7F2FE" font-size="21" font-weight="700">AUTOMATE</text>
+      <text x="726" y="213" fill="#9BB0C8" font-size="14">Repeat with speed</text>
+    </g>
+    <g>
+      <rect x="931" y="115" width="205" height="120" rx="13" fill="#111E30" stroke="#4C577F" stroke-width="1.4"/>
+      <rect x="950" y="130" width="43" height="28" rx="7" fill="#2E294E"/>
+      <text x="963" y="150" fill="#C4B5FD" font-size="16" font-weight="700">05</text>
+      <text x="950" y="186" fill="#E7F2FE" font-size="21" font-weight="700">REGRESS</text>
+      <text x="950" y="213" fill="#9BB0C8" font-size="14">Protect each change</text>
+    </g>
+    <g>
+      <rect x="1155" y="115" width="205" height="120" rx="13" fill="#111E30" stroke="#635A92" stroke-width="1.4"/>
+      <rect x="1174" y="130" width="43" height="28" rx="7" fill="#2E294E"/>
+      <text x="1187" y="150" fill="#C4B5FD" font-size="16" font-weight="700">06</text>
+      <text x="1174" y="186" fill="#E7F2FE" font-size="21" font-weight="700">REPORT</text>
+      <text x="1174" y="213" fill="#9BB0C8" font-size="14">Enable decisions</text>
+    </g>
+  </g>
+  <g stroke="url(#line)" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M244 175 H254 M249 169 L255 175 L249 181"/>
+    <path d="M468 175 H478 M473 169 L479 175 L473 181"/>
+    <path d="M692 175 H702 M697 169 L703 175 L697 181"/>
+    <path d="M916 175 H926 M921 169 L927 175 L921 181"/>
+    <path d="M1140 175 H1150 M1145 169 L1151 175 L1145 181"/>
+  </g>
+  <path d="M35 256 H1360" stroke="url(#line)" opacity=".6" stroke-width="2"/>
+</svg>
