@@ -156,7 +156,7 @@ These are **sanitized or demonstration materials** intended to showcase testing 
 
 Interested in manual QA, API testing or a focused test review? Explore the project samples above and reach out.
 
-- **LinkedIn:** https://www.linkedin.com/in/akash-panchal-3289b9188
+- <a href="https://www.linkedin.com/in/akash-panchal-3289b9188" target="_blank" rel="noopener noreferrer">**LinkedIn:** [Akash Panchal](https://www.linkedin.com/in/akash-panchal-3289b9188) </a>
 - **Email:** akashpanchal1329@gmail.com
 
 <div align="center">
